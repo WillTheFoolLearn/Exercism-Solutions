@@ -5,7 +5,7 @@
 // implementing this exercise.
 
 /**
- * Calculates the total bird count.
+ * Calculates the total bird count!
  *
  * @param {number[]} birdsPerDay
  * @returns {number} total bird count
